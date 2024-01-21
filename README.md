@@ -6,7 +6,7 @@
 
 [![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
 
-![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=DC4A25)
+[![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=DC4A25)](https://tailanpatrick.github.io/landingpage-triade-web/)
 
 Tenho 27 anos e sou  estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, a tempo sou amante da computação. 
 
@@ -26,3 +26,4 @@ Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de
 
 
  [![Biblioteca JavaScript - Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+ [![Folhas de Estilo pré fabricadas - Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
