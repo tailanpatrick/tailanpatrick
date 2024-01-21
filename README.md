@@ -14,7 +14,7 @@
 
 ### Sobre Mim: 👨‍🎓
 
-Tenho 27 anos e sou  estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, a tempo sou amante da computação. 
+Tenho 27 anos, e sou  estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, a tempo sou amante da computação. 
 
 Recentemente descobri melhor o mundo da programação, e me sinto fascinado por ele, e me esforço bastante para aprender novas linguagens, metodologias e frameworks. 👨‍💻
 
