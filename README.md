@@ -1,6 +1,10 @@
 ### Olá, sou o Tailan Patrick! 👨‍💻💛
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tailanpatrick)
+
+### Deploy de Projetos do GitHub:
 
 [![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)](https://cardapioacaidcampos.000webhostapp.com/)
 
