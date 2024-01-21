@@ -6,7 +6,7 @@
 
 ### Deploy de Projetos do GitHub:
 
-<a href="https://cardapioacaidcampos.000webhostapp.com/" target="_blank">[![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)](https://cardapioacaidcampos.000webhostapp.com/)</a>
+<a href="https://cardapioacaidcampos.000webhostapp.com/" target="_blank">![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)</a>
 
 [![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
 
