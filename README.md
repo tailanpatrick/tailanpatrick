@@ -10,7 +10,7 @@
 
 [![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
 
-[![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=DC4A25)](https://tailanpatrick.github.io/landingpage-triade-web/)
+[![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=E96228)](https://tailanpatrick.github.io/landingpage-triade-web/)
 
 ### Sobre Mim: 👨‍🎓
 
