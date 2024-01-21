@@ -12,6 +12,8 @@
 
 [![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=DC4A25)](https://tailanpatrick.github.io/landingpage-triade-web/)
 
+### Sobre Mim: 
+
 Tenho 27 anos e sou  estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, a tempo sou amante da computação. 
 
 Recentemente descobri melhor o mundo da programação, e me sinto fascinado por ele, e me esforço bastante para aprender novas linguagens, metodologias e frameworks. 👨‍💻
