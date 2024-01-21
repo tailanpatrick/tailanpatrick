@@ -17,7 +17,7 @@ A linguagem que mais gostei é o Javascript, isso porque achei algo um pouco mai
 Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de estudar conceitos importantes para um Desenvolvedor.💡🚀
 
 <div><br>
-  <a><img align="center" alt="Tailan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
+  <a href="#"><img align="center" alt="Tailan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
   <img align="center" alt="Tailan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3">
   <br><br>
   <img align="center" alt="Tailan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
