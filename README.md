@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tailanpatrick)
 
-[![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)](https://tailanpatrick.github.io/app-clima/)
+[![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)](https://cardapioacaidcampos.000webhostapp.com/)
 
-![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY&message=Site%20ver%20o%20Clima&color=081E3C)
+[![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
 
 
 ![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=DC4A25)
