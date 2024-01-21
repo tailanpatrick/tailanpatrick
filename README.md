@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tailanpatrick)
 
-![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)
+[![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)](https://tailanpatrick.github.io/app-clima/)
 
 ![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY&message=Site%20ver%20o%20Clima&color=081E3C)
 
