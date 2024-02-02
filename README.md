@@ -10,9 +10,9 @@
 
 [![Deploy - Cardapio Food - Projeto React e NodeJS](https://img.shields.io/static/v1?label=DEPLOY%20AWS&message=Cardapio%20Food%20-%20Projeto%20com%20React%20e%20NodeJS&color=E74D3B)](http://18.231.163.22:3000/)
 
-[![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
-
 [![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=E96228)](https://tailanpatrick.github.io/landingpage-triade-web/)
+
+[![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
 
 ### Sobre Mim: 👨‍🎓
 
