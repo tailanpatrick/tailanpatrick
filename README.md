@@ -8,7 +8,7 @@
 
 <a href="https://cardapioacaidcampos.000webhostapp.com/" target="_blank">![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)</a>
 
-[![Deploy - Cardapio Food - Projeto React e NodeJS](https://img.shields.io/static/v1?label=DEPLOY%20AWS&message=Cardapio%20Food%20-%20Projeto%20com%20React%20e%20NodeJS&color=E74D3B)](http://18.231.163.22:3000/)
+[![Deploy - Cardapio Food - Projeto React e NodeJS](https://img.shields.io/static/v1?label=DEPLOY%20AWS&message=Cardapio%20Food%20-%20Projeto%20com%20React%20e%20NodeJS&color=E74D3B)](http://18.230.187.156:3000/)
 
 [![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=E96228)](https://tailanpatrick.github.io/landingpage-triade-web/)
 
