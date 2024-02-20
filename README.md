@@ -54,4 +54,4 @@ Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de
 
 <br>
 
-### Abaixo todos os Repositórios de tailanpatrick: 📚
+### Abaixo os principais Repositórios de tailanpatrick: 📚
