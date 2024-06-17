@@ -33,7 +33,7 @@ Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de
   <a href="#"><img align="center" alt="Tailan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
   <img align="center" alt="Tailan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3">
   <img align="center" alt="Tailan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <br>
+  <br><br>
   <img align="center" alt="Tailan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
   <img align="center" alt="Tailan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
   <img align="center" alt="Tailan-NodeJS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS">
