@@ -38,9 +38,9 @@ Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de
   <img align="center" alt="Tailan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
   <img align="center" alt="Tailan-NodeJS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS">
 
-  <!-- Remover comentário apos concluir curso --
+  
   <img align="center" alt="Tailan-NextJS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" title="NextJS">
-  <br><br>-->
+  <br><br>
   <img align="center" alt="Tailan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" alt="Tailan-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" title="JAVA">
   <img align="center" alt="Tailan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" title="MySQL">
