@@ -4,6 +4,8 @@
 
 ### Deploy de Projetos do GitHub:
 
+[![Deploy - Lista de Tarefas com Next.js e PocketBase](https://img.shields.io/static/v1?label=DEPLOY%20VERCEL/POCKETHOST&message=Lista%20de%20Tarefas%20com%20Next.js,%20Pocketbase%20e%20Google%20Auth&color=#000000)](https://to-do-list-next-six.vercel.app/)
+
 [![Deploy - Sistema de Agendamento de Barbearia com Next.js](https://img.shields.io/static/v1?label=DEPLOY%20VERCEL&message=Sistema%20de%20Agendamento%20de%20Barbearia%20com%20Next.js&color=8161FF)](https://agendamento-barber.vercel.app/)
 
 <a href="https://cardapioacaidcampos.000webhostapp.com/" target="_blank">![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)</a>
