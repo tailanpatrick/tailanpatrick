@@ -28,32 +28,18 @@ Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de
 
 <div><br>
   <a href="#"><img align="center" alt="Tailan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
-
   <img align="center" alt="Tailan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3">
-
   <img align="center" alt="Tailan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-
-  <br><br>
   <img align="center" alt="Tailan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
-
   <img align="center" alt="Tailan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-  
   <img align="center" alt="Tailan-NodeJS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS">
-
   <img align="center" alt="Tailan-NextJS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" title="NextJS">
-
-
-  - <img align="center" alt="Tailan-PocketBase" height="30" width="45" src="https://pbs.twimg.com/profile_images/1544692814822391811/s2hcCido_400x400.png" title="PocketBase">
-
-  <br><br>
   <img align="center" alt="Tailan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-
   <img align="center" alt="Tailan-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" title="JAVA">
-
   <img align="center" alt="Tailan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" title="MySQL">
   <img align="center" alt="Tailan-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" title="SQLite">
-
   <img align="center" alt="Tailan-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-plain.svg" title="PostgreSQL">
+  <img align="center" alt="Tailan-PocketBase" height="30" width="45" src="https://pbs.twimg.com/profile_images/1544692814822391811/s2hcCido_400x400.png" title="PocketBase">
  <br><br>
  </a>
 
