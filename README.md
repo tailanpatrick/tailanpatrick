@@ -42,8 +42,9 @@ Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de
 
   <img align="center" alt="Tailan-NextJS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" title="NextJS">
 
-   <img align="center" alt="Tailan-PocketBase" height="30" width="45" src="https://pbs.twimg.com/profile_images/1544692814822391811/s2hcCido_400x400.png" title="PocketBase">
-   
+
+  - <img align="center" alt="Tailan-PocketBase" height="30" width="45" src="https://pbs.twimg.com/profile_images/1544692814822391811/s2hcCido_400x400.png" title="PocketBase">
+
   <br><br>
   <img align="center" alt="Tailan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
 
