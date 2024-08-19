@@ -2,20 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tailanpatrick)
 
-### Deploy de Projetos do GitHub:
-
-[![Deploy - Lista de Tarefas com Next.js e PocketBase](https://img.shields.io/static/v1?label=DEPLOY%20VERCEL/POCKETHOST&message=Lista%20de%20Tarefas%20com%20Next.js,%20Pocketbase%20e%20Google%20Auth&color=#000000)](https://to-do-list-next-six.vercel.app/)
-
-[![Deploy - Sistema de Agendamento de Barbearia com Next.js](https://img.shields.io/static/v1?label=DEPLOY%20VERCEL&message=Sistema%20de%20Agendamento%20de%20Barbearia%20com%20Next.js&color=8161FF)](https://agendamento-barber.vercel.app/)
-
-<a href="https://cardapioacaidcampos.000webhostapp.com/" target="_blank">![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)</a>
-
-[![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=E96228)](https://tailanpatrick.github.io/landingpage-triade-web/)
-
-[![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
-
-[![Projeto - Cardapio Food - Projeto React e NodeJS](https://img.shields.io/static/v1?label=PROJETO&message=Cardapio%20Food%20-%20Projeto%20com%20React%20e%20NodeJS&color=E74D3B)](https://github.com/tailanpatrick/cardapio-food)
-
 ### Sobre Mim: 👨‍🎓
 
 Tenho 27 anos, e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, a tempo sou amante da computação.
@@ -25,6 +11,21 @@ Recentemente descobri melhor o mundo da programação, e me sinto fascinado por 
 A linguagem que mais gostei é o Javascript, isso porque achei algo um pouco mais intuitivo, onde se pode ver rapidamente resultados do conhecimento adquirido.💛
 
 Sigo desenvolvendo projetos pessoais para adquirir novos conhecimentos, além de estudar conceitos importantes para um Desenvolvedor.💡🚀
+
+### Deploy de Projetos do GitHub:
+
+[![Deploy - Lista de Tarefas com Next.js e PocketBase](https://img.shields.io/static/v1?label=DEPLOY%20VERCEL/POCKETHOST&message=Lista%20de%20Tarefas%20com%20Next.js,%20Pocketbase%20e%20Google%20Auth&color=#000000)](https://to-do-list-next-six.vercel.app/)
+
+[![Deploy - Sistema de Agendamento de Barbearia com Next.js](https://img.shields.io/static/v1?label=DEPLOY%20VERCEL&message=Sistema%20de%20Agendamento%20de%20Barbearia%20com%20Next.js&color=8161FF)](https://agendamento-barber.vercel.app/)
+
+<a href="https://menu-acai-d-campos.vercel.app/" target="_blank">![Deploy - Cardapio Açaí D Campos](https://img.shields.io/static/v1?label=DEPLOY&message=Cardápio%20Online%20Açaí%20D%20Campos&color=513F8B)</a>
+
+[![Deploy - Landing Page Tride Web com Projetos](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Landing%20page%20TRÍADE%20WEB%20com%20Projetos&color=E96228)](https://tailanpatrick.github.io/landingpage-triade-web/)
+
+[![Deploy - Site Clima](https://img.shields.io/static/v1?label=DEPLOY%20GITHUB&message=Site%20ver%20o%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
+
+[![Projeto - Cardapio Food - Projeto React e NodeJS](https://img.shields.io/static/v1?label=PROJETO&message=Cardapio%20Food%20-%20Projeto%20com%20React%20e%20NodeJS&color=E74D3B)](https://github.com/tailanpatrick/cardapio-food)
+
 
 ### Linguagens e Tecnologias: 🕹️
 
