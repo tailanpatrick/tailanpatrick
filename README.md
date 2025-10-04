@@ -4,11 +4,7 @@
 
 ---
 
-<<<<<<< HEAD
 ### Sobre Mim 👨‍🎓
-=======
-Tenho 28 anos, e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, a tempo sou amante da computação.
->>>>>>> dadeb3b48f7d544137b7ae2c7434bfd84f0d8f8c
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Pitágoras, apaixonado por computação e desenvolvimento de software.
 
@@ -20,31 +16,23 @@ Tenho experiência em **JavaScript, TypeScript, React, NodeJS e NextJS**, e sigo
 
 #### Projetos para clientes e aplicações reais
 
-<div>
-  [![Landing Page Dra. Rozana](https://img.shields.io/static/v1?label=Deploy&message=Landing%20Page%20Dra.%20Rozana&color=007BFF)](https://landing-page-dr-rozana.vercel.app/)
-  [![Cardápio Açaí D Campos](https://img.shields.io/static/v1?label=Deploy&message=Cardápio%20Açaí%20D%20Campos&color=513F8B)](https://menu-acai-d-campos.vercel.app/)
-</div>
+[![Landing Page Dra. Rozana](https://img.shields.io/static/v1?label=Deploy&message=Landing%20Page%20Dra.%20Rozana&color=007BFF)](https://landing-page-dr-rozana.vercel.app/)
+[![Cardápio Açaí D Campos](https://img.shields.io/static/v1?label=Deploy&message=Cardápio%20Açaí%20D%20Campos&color=513F8B)](https://menu-acai-d-campos.vercel.app/)
 
 <br>
 
 #### Projetos pessoais e experimentais
 
-<div>
-  [![Player Réplica Spotify](https://img.shields.io/static/v1?label=Deploy&message=Player%20Spotify&color=1DB954)](https://player-spotify.vercel.app/)
-  [![Frontend Chat em Tempo Real](https://img.shields.io/static/v1?label=Deploy&message=Chat%20Tempo%20Real&color=000000)](https://frontend-chat-em-tempo-real.vercel.app/)
-  [![Auto U Email Classifier](https://img.shields.io/static/v1?label=Deploy&message=Email%20Classifier&color=D63384)](https://auto-u-email-classifier.vercel.app/)
-</div>
+[![Player Réplica Spotify](https://img.shields.io/static/v1?label=Deploy&message=Player%20Spotify&color=1DB954)](https://player-spotify.vercel.app/)
+[![Frontend Chat em Tempo Real](https://img.shields.io/static/v1?label=Deploy&message=Chat%20Tempo%20Real&color=000000)](https://frontend-chat-em-tempo-real.vercel.app/)
+[![Auto U Email Classifier](https://img.shields.io/static/v1?label=Deploy&message=Email%20Classifier&color=D63384)](https://auto-u-email-classifier.vercel.app/)
 
-<div>
-  [![TP Amigo Secreto](https://img.shields.io/static/v1?label=Deploy&message=Amigo%20Secreto&color=006400)](https://tp-amigo-secreto.vercel.app/)
-  [![Lista de Tarefas Next.js e PocketBase](https://img.shields.io/static/v1?label=Deploy&message=Lista%20de%20Tarefas&color=000000)](https://to-do-list-next-six.vercel.app/)
-  [![Landing Page TRÍADE WEB](https://img.shields.io/static/v1?label=Deploy&message=Landing%20Page%20TRÍADE&color=E96228)](https://tailanpatrick.github.io/landingpage-triade-web/)
-</div>
+[![TP Amigo Secreto](https://img.shields.io/static/v1?label=Deploy&message=Amigo%20Secreto&color=006400)](https://tp-amigo-secreto.vercel.app/)
+[![Lista de Tarefas Next.js e PocketBase](https://img.shields.io/static/v1?label=Deploy&message=Lista%20de%20Tarefas&color=000000)](https://to-do-list-next-six.vercel.app/)
+[![Landing Page TRÍADE WEB](https://img.shields.io/static/v1?label=Deploy&message=Landing%20Page%20TRÍADE&color=E96228)](https://tailanpatrick.github.io/landingpage-triade-web/)
 
-<div>
-  [![Site Clima](https://img.shields.io/static/v1?label=Deploy&message=Site%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
-  [![Cardapio Food React/NodeJS](https://img.shields.io/static/v1?label=Projeto&message=Cardapio%20Food&color=E74D3B)](https://github.com/tailanpatrick/cardapio-food)
-</div>
+[![Site Clima](https://img.shields.io/static/v1?label=Deploy&message=Site%20Clima&color=081E3C)](https://tailanpatrick.github.io/app-clima/)
+[![Cardapio Food React/NodeJS](https://img.shields.io/static/v1?label=Projeto&message=Cardapio%20Food&color=E74D3B)](https://github.com/tailanpatrick/cardapio-food)
 
 ---
 
