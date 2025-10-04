@@ -4,7 +4,11 @@
 
 ---
 
+<<<<<<< HEAD
 ### Sobre Mim 👨‍🎓
+=======
+Tenho 28 anos, e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras, a tempo sou amante da computação.
+>>>>>>> dadeb3b48f7d544137b7ae2c7434bfd84f0d8f8c
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Pitágoras, apaixonado por computação e desenvolvimento de software.
 
